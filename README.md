@@ -1,3 +1,5 @@
 # IS7033
-Machine learning class IS7033 Spring 2019
-Homework assignment #2: Scale Invariance CNN
+Machine learning IS7033 UTSA Spring 2019
+Homework assignments:
+#1: Rotation Invariance CNN
+#2: Scale Invariance CNN
